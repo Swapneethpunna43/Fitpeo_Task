@@ -1,4 +1,4 @@
-import anatomyImage from '../assets/anatomy.png'
+import anatomyImage from '../assets/Anatomy.png'
 
 const AnatomySection = () => {
   return (
